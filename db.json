@@ -1,0 +1,11 @@
+{
+"students":	[
+	    {"name":"Abha","class":"BTech","technology":"React"},
+	    {"name":"Abhishek","class":"BTech","technology":"React"},
+	    {"name":"Manas","class":"BTech","technology":"JS"},
+	    {"name":"Pooja","class":"MCA","technology":"Digital Marketing"},
+	    {"name":"Arsheen","class":"BTech","technology":"Designing"},
+	    {"name":"Kiran","class":"MCA","technology":"SEO"},
+	    {"name":"Kangan","class":"BMM","technology":"Graphics"}
+    ]
+}
