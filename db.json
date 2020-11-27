@@ -7,7 +7,9 @@
 	    {"name":"Arsheen","class":"BTech","technology":"Designing"},
 	    {"name":"Kiran","class":"MCA","technology":"SEO"},
 	    {"name":"Kangan","class":"BMM","technology":"Graphics"}
-    ],
+    ]
+},
+{
 "technologies":	[
 	    {"name":"React","duration":"3 months","monthly-fee":"Rs 5000"},
 	    {"name":"WordPress","duration":"3 months","monthly-fee":"Rs 4500"},
